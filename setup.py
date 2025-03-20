@@ -7,11 +7,11 @@ setup(
     author="Mohsin Kirmani",
     packages=find_packages(),
     install_requires=[
-        "requests==2.28.2",
-        "numpy==1.24.2",
-        "pandas==1.5.3",
-        "matplotlib==3.7.1",
-        "scikit-learn==1.2.0",
-        "flask==2.2.3",
+        "requests",
+        "numpy",
+        "pandas",
+        "matplotlib",
+        "scikit-learn",
+        "flask",
     ],
 )
