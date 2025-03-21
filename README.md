@@ -19,8 +19,8 @@ To get started with this project, follow these steps to setup it.
 2. Create a virtual environment and activate it.
 
    ```bash
-   conda create --name <your-env-name> python=3.x
-   conda activate <your-env-name>
+   pyenv virtual_env <PYTHON_VERSION> <YOUR_ENV_NAME>
+   pyenv activate <YOUR_ENV_NAME>
    ```
 
 3. Install the required dependencies.
