@@ -1,6 +1,6 @@
-# Boilerplate Template
+# Boilerplate
 
-A boilerplate template for a Data Science/ML project. It includes:
+A boilerplate for a Data Science/ML project. It includes:
 * A basic project structure to give a quick start.
 * A sample configuration file (`config.ini`) for configuration management.
 * A `requirements.txt` file listing essential dependencies for the project setup.
@@ -12,8 +12,8 @@ To get started with this project, follow these steps to setup it.
 1. Clone this repository to your local machine.
 
    ```bash
-   git clone https://github.com/your-username/boilerplate-template.git
-   cd boilerplate-template
+   git clone https://github.com/your-username/boilerplate.git
+   cd boilerplate
    ```
 
 2. Create a virtual environment and activate it.
@@ -31,7 +31,7 @@ To get started with this project, follow these steps to setup it.
    
 ## Project Structure
 ```
-boilerplate-template/
+boilerplate/
 ├── data
 │   ├── interim
 │   ├── processed
